@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GBook</string>
+    <string name="empty_title">Daftar buku masih kosong</string>
+    <string name="empty_title2">Oops.. buku tidak ditemukan</string>
+    <string name="empty_subtitle">Temukan buku yang kamu inginkan sekarang</string>
+    <string name="empty_subtitle2">Keyword salah atau Temukan buku yang lain</string>
+</resources>
